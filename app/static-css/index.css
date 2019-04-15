@@ -9,3 +9,6 @@
   overflow-y: auto;
   height: 90vh; /* NEW */
 }
+body{
+  background-color: grey;
+}
