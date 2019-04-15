@@ -1,4 +1,4 @@
-<!-- # News Highlights:
+ # News Highlights:
 
 ## Built by; John Mwangi
 
@@ -7,7 +7,8 @@
 15th April, 2019.
 
 ## Description
-Watchlist-Movie its an appliction that provides posters options and options to search the moviebs with similar names which provivdes an idea of the movies.
+
+News Highlight is a python built application that displays a list of various news sources.On choosing the news source it displays the top news.
 
 ## User Stories
 These are the behaviours that the  application
@@ -20,13 +21,14 @@ As a user i would like to:
 * `See the details of the news`
 * `Read all the details and news`
 
+##BDD
 
 | Behaviour                           | Output                                                         |
 |-------------------------------------|----------------------------------------------------------------|
 | Display news source                 | List of variuos news source in a list                          |
 | Display articles from a news source | Redirects to a page with article from source                   |
 | Display tabs with news by category  | Onclick links opens based on categories                        |
-| To read article                     | Redirects to the news source's site to read the entire article |
+| To read article                     | Redirects to the news source's site to read the entire article | -->
 
 ### SetUp / Installation Requirements
 
