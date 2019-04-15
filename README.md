@@ -21,7 +21,7 @@ As a user i would like to:
 * `See the details of the news`
 * `Read all the details and news`
 
-##BDD
+#BDD
 
 | Behaviour                           | Output                                                         |
 |-------------------------------------|----------------------------------------------------------------|
@@ -89,4 +89,4 @@ As a user i would like to:
 
 ### License
 *License is under MIT 2019*
-Copyright (c) 2019 *John Mwangi*. -->
+Copyright (c) 2019 *John Mwangi*.
