@@ -21,7 +21,7 @@ As a user i would like to:
 * `See the details of the news`
 * `Read all the details and news`
 
-#BDD
+## BDD
 
 | Behaviour                           | Output                                                         |
 |-------------------------------------|----------------------------------------------------------------|
