@@ -1,0 +1,8 @@
+{% extends 'bootstrap/base.html'%}
+
+{% block navbar %}
+     {% include 'navbar.html'%}
+{% endblock %}
+{%block content%}
+{%block styles%}
+<Link rel="stylesheet" href="{{url_for('static',filename='css/bootstrap-material-design')}}"
