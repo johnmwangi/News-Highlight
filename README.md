@@ -41,21 +41,21 @@ As a user i would like to:
 ## Cloning
 * In your terminal:
 
-        $ git clone:https://jonesmwas.herokuapp.com/
+        * git clone:https://jonesmwas.herokuapp.com/
 
 ## Running the Application
 
 * Creating the virtual environment
 
-`$ python3.6 -m venv --without-pip virtual
- $ source virtual/bin/env
- $ curl https://boostrap.pypa.io/get-pip | python`
+`* python3.6 -m venv --without-pip virtual
+ * source virtual/bin/env
+ * curl https://boostrap.pypa.io/get-pip | python`
 
 * Installing Flask and other required modules
 
-`$ python3.6 -m pip install Flask
- $ python3.6 -m pip install Flask-bootstrap
- $ python3.6 -m pip install Flask-Script`
+`* python3.6 -m pip install Flask
+ * python3.6 -m pip install Flask-bootstrap
+ * python3.6 -m pip install Flask-Script`
 
  * Setting up the API KEY
 
@@ -72,13 +72,13 @@ As a user i would like to:
      <Your-Api-Key>
   * To run the application, in your terminal:
 
-      `$ chmod +x start.sh
-      $ ./start.sh`
+      ` chmod +x start.sh
+       ./start.sh`
 
 
 ## Testing the Application
 
-*  `$ python3.6 manage.py tests`
+*  ` python3.6 manage.py tests`
 
 ## Technologies Used
 * Python3.6
