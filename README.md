@@ -28,7 +28,7 @@ As a user i would like to:
 | Display news source                 | List of variuos news source in a list                          |
 | Display articles from a news source | Redirects to a page with article from source                   |
 | Display tabs with news by category  | Onclick links opens based on categories                        |
-| To read article                     | Redirects to the news source's site to read the entire article | -->
+| To read article                     | Redirects to the news source's site to read the entire article | 
 
 ### SetUp / Installation Requirements
 
